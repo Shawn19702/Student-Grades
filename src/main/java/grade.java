@@ -14,7 +14,8 @@ public class grade {
         } else {
             System.out.println("You got an F");
 
-System.out.println(studentGrade);
         }
+        System.out.println(studentGrade);
+
     }
     }
